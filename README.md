@@ -8,9 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazir-Rizwan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazir-Rizwan&size_weight=0.5&count_weight=0.5&theme=radical)]
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nazir-Rizwan&show_icons=true&theme=
+<!-- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nazir-Rizwan&show_icons=true&theme=
                                    chartreuse-dark" />
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazir-Rizwan&theme=chartreuse-dark&layout=pie" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazir-Rizwan&theme=chartreuse-dark&layout=pie" /> -->
 
 <!--
 **Nazir-Rizwan/Nazir-Rizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
