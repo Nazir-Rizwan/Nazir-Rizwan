@@ -5,8 +5,7 @@
 - I am complete task no matter how difficult
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazir-Rizwan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazir-Rizwan&size_weight=0.5&count_weight=0.5&theme=radical)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nazir-Rizwan)](https://git.io/streak-stats)
 
 <!-- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nazir-Rizwan&show_icons=true&theme=
                                    chartreuse-dark" />
@@ -16,7 +15,7 @@
 **Nazir-Rizwan/Nazir-Rizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 theme is radical 
 Here are some ideas to get you started:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazir-Rizwan&show_icons=true&theme=chartreuse-dark)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
