@@ -6,7 +6,10 @@
 - I am complete task no matter how difficult
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nazir-rizwan&label=Profile%20views&color=0e75b6&style=flat" alt="nazir-rizwan" /> </p>
+
+<!--
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></img>
+-->
 
 <!--badges list github show  -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazir-rizwan" alt="nazir-rizwan" /></a> </p>
